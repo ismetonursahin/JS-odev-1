@@ -1,0 +1,39 @@
+body{ 
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.paragraf{
+  text-align: center;
+  font-size: 50px;
+  color:#e98208;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+.text1{
+   text-align: center;
+   color: #e98208;
+   font-size: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   margin-top: 35px;
+
+}
+
+#baslık{
+  height: 100px;  
+
+}
+
+#myClock{
+  font-size: 45px;
+  color: #e98208;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  margin-top: 25px;
+
+}
+
